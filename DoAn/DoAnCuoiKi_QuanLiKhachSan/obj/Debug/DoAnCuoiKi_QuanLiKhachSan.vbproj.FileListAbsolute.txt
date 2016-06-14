@@ -1,0 +1,2 @@
+E:\Do an CNPM\DoAn\DoAn\DoAnCuoiKi_QuanLiKhachSan\bin\Debug\DoAnCuoiKi_QuanLiKhachSan.exe.config
+E:\Do an CNPM\DoAn\trunk\DoAn\DoAnCuoiKi_QuanLiKhachSan\bin\Debug\DoAnCuoiKi_QuanLiKhachSan.exe.config
